@@ -1980,11 +1980,12 @@ input, select, textarea {
 				}
 
 			table.default td {
+                text-align: center;
 				padding: 0.5em 1em 0.5em 1em;
 			}
 
 			table.default th {
-				text-align: left;
+				text-align: center;
 				padding: 0.5em 1em 1em 1em;
 			}
 
